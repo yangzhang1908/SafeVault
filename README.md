@@ -1,5 +1,7 @@
-Summary of Vulnerabilities and Fixes
+Summary of Vulnerabilities and Fixes for this demo project
+
 Identified Vulnerabilities and Fixes
+
 1.	XSS Vulnerability
 •	Vulnerability: Potential rendering of unencoded user input
 •	Fix: Automatic HTML encoding by Blazor + explicit HtmlEncoder usage
